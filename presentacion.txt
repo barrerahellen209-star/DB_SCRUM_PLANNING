@@ -1,0 +1,8 @@
+Desarrollo Web en Entorno Servidor
+grupo:SI09B
+
+INTEGRANTES:
+Félix Pedro Luna Bermúdez
+Hellen del Carmen Barrera Velásquez
+
+Trabajo a elaborar: elaboración de los procedimientos almacenados para cada tabal de la dase de batos (SCRUM_PLANNING)
