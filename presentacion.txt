@@ -5,4 +5,4 @@ INTEGRANTES:
 Félix Pedro Luna Bermúdez =241906
 Hellen del Carmen Barrera Velásquez =241347
 
-Trabajo a elaborar: elaboración de los procedimientos almacenados para cada tabal de la dase de batos (SCRUM_PLANNING)
+Trabajo a elaborar: elaboración de los procedimientos almacenados para cada tabla de la dase de datos (SCRUM_PLANNING)
